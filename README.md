@@ -1,1 +1,1 @@
-# -math-solver-fa
+# math-solver-fa
